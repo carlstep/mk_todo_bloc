@@ -3,7 +3,7 @@
 The TO DO repository - define what the app can do.
 
 use abstract class << a base class to build on top of
-- define what the class can do
+- define what the class can do 
 
 */
 

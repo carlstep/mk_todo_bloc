@@ -27,8 +27,8 @@ class Todo {
     return Todo(
       id: id,
       text: text,
-      isCompleted:
-          !isCompleted, // toggles isCompleted >> !isCompleted (if true, becomes false; is false, becomes true)
+      // toggles isCompleted >> !isCompleted (if true, becomes false; is false, becomes true)
+      isCompleted: !isCompleted,
     );
   }
 }
